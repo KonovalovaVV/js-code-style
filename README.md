@@ -1,0 +1,1 @@
+In this task, you should format the code from the thenBy javascript micro-library that helps to sort arrays on multiple keys. It allows you to use the native Array::sort() method of javascript, but pass in multiple functions to sort that are composed with firstBy().thenBy().thenBy() style.
