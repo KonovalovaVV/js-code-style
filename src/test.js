@@ -1,3 +1,5 @@
+/* eslint-disable no-console */
+
 import data from './city';
 import { firstBy } from './thenByFixed';
 
